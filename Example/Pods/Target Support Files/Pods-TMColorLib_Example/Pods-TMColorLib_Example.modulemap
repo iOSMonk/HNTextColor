@@ -1,0 +1,6 @@
+framework module Pods_TMColorLib_Example {
+  umbrella header "Pods-TMColorLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
