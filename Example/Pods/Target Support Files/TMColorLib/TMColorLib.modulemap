@@ -1,0 +1,6 @@
+framework module TMColorLib {
+  umbrella header "TMColorLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

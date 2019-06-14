@@ -1,0 +1,16 @@
+PODS:
+  - TMColorLib (0.1.0)
+
+DEPENDENCIES:
+  - TMColorLib (from `../`)
+
+EXTERNAL SOURCES:
+  TMColorLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TMColorLib: 787be5c76a234f8ecd4b3b47e72d831a750ff8df
+
+PODFILE CHECKSUM: a1cfe76b26544343f34d85b25be74859a52d4701
+
+COCOAPODS: 1.7.1
