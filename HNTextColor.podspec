@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author       = { "iOSMonk" => "898300117@qq.com" }
   s.source       = { :git => "https://github.com/iOSMonk/HNTextColor.git", :tag => s.version }
   s.source_files = "UIColor/*.{h,m}"
-  s.ios.deployment_target = '6.0'
+  s.ios.deployment_target = '8.0'
   s.frameworks   = 'UIKit'
   s.requires_arc = true
 
