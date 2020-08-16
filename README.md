@@ -1,1 +1,1 @@
-# HNTextColory
+# HNTextColor
